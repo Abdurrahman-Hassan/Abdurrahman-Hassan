@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web 3.0**
 
-- 💬 Ask me about **React,Nextjs,Nodejs,Expressjs,Web3.0**
+- 💬 Ask me about **React, Next.Js, Node.Js, Express.Js, Web3.0**
 
 - 📫 How to reach me **hanzalajj@gmail.com**
 
