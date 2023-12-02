@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdurrahman-Hassan</h1>
-<h3 align="center">Currently: Full-Stack Developer web2.0, Future Web3.0 Dev</h3>
+<h3 align="center">Currently working as a Full-Stack Developer web2.0</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrahman-hassan&label=Visitors&color=0e75b6&style=flat" alt="abdurrahman-hassan" /> </p>
 
