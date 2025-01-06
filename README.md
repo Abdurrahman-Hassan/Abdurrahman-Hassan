@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdurrahman-hassan" alt="abdurrahman-hassan" /></a> </p>
 
-- 🔭 I’m currently working on **TajirXpress**
+- 🔭 I’m currently working on **Teksyo**
 
-- 🌱 I’m currently learning **Web 3.0**
+- 🌱 I’m currently learning **AI**
 
 - 💬 Ask me about **React, Next.Js, Node.Js, Express.Js, Web3.0**
 
