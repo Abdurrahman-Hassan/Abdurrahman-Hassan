@@ -57,8 +57,6 @@ I'm a passionate full-stack developer with expertise in modern web technologies 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=abdurrahman-hassan&show_icons=true&theme=gruvbox&layout=compact&hide_title=true)](https://github.com/abdurrahman-hassan)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abdurrahman-Hassan&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
 </div>
 
 ---
