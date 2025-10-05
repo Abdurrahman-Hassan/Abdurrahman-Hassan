@@ -2,7 +2,6 @@
 
 ### Full-Stack Developer | Web Development & AI Enthusiast
 
-[![Visitor Count](https://komarev.com/ghpvc/?username=abdurrahman-hassan&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/abdurrahman-hassan)
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-rahman-hassan-246709234/)
 [![Portfolio](https://img.shields.io/badge/-View%20Portfolio-informational?style=flat-square&logo=react&logoColor=white&link=https://abdurrahmanhassan.netlify.app/)](https://abdurrahmanhassan.netlify.app/)
 
@@ -56,11 +55,9 @@ I'm a passionate full-stack developer with expertise in modern web technologies 
   
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=abdurrahman-hassan&theme=gruvbox&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdurrahman-hassan&show_icons=true&theme=gruvbox&hide_title=true&hide=issues)](https://github.com/abdurrahman-hassan)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=abdurrahman-hassan&show_icons=true&theme=gruvbox&layout=compact&hide_title=true)](https://github.com/abdurrahman-hassan)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdurrahman-hassan&theme=gruvbox)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abdurrahman-Hassan&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 </div>
 
