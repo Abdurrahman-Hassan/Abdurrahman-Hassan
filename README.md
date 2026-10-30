@@ -1,78 +1,93 @@
-### Full-stack engineer building SaaS platforms and AI systems that do the work
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=00333A&height=120&section=header&text=Abdurrahman%20Hassan&fontColor=FDFBF7&fontSize=36&fontAlignY=40&desc=Full-stack%20engineer%20%C2%B7%20multi-tenant%20SaaS%20and%20AI%20systems&descAlignY=62&descSize=15">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FDFBF7&height=120&section=header&text=Abdurrahman%20Hassan&fontColor=00333A&fontSize=36&fontAlignY=40&desc=Full-stack%20engineer%20%C2%B7%20multi-tenant%20SaaS%20and%20AI%20systems&descAlignY=62&descSize=15" alt="Abdurrahman Hassan — full-stack engineer">
+</picture>
+
+[![Portfolio](https://img.shields.io/badge/abdurrahmanhassan.com-00333A?style=for-the-badge&logo=googlechrome&logoColor=FDFBF7)](https://abdurrahmanhassan.com)
+[![Case studies](https://img.shields.io/badge/case_studies-D4AF37?style=for-the-badge&logo=readdotcv&logoColor=00333A)](https://abdurrahmanhassan.com/story/)
+[![Résumé](https://img.shields.io/badge/r%C3%A9sum%C3%A9-PDF-00333A?style=for-the-badge&logo=adobeacrobatreader&logoColor=FDFBF7)](https://abdurrahmanhassan.com/abdurrahman-hassan-resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurrahman-hassan/)
+[![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdurfreelance@gmail.com)
+
+![portfolio status](https://img.shields.io/website?url=https%3A%2F%2Fabdurrahmanhassan.com&up_message=live&up_color=00333A&down_message=down&label=portfolio)
+![last commit](https://img.shields.io/github/last-commit/Abdurrahman-Hassan/portfolio-v4?style=flat-square&label=portfolio%20last%20commit&color=00333A)
+![followers](https://img.shields.io/github/followers/Abdurrahman-Hassan?style=flat-square&label=followers&color=D4AF37)
+![views](https://komarev.com/ghpvc/?username=Abdurrahman-Hassan&style=flat-square&color=00333A&label=profile+views)
 
 I build multi-tenant SaaS products, enterprise portals, and agentic AI systems — the kind that turn a
 sentence into executed steps rather than a chat reply. 4+ years, 14 projects across 6 roles, based in
 Karachi and working remotely.
 
-**Currently** at Cloud Primero, building intent-to-action agent platforms: natural-language intent
-executed over Model Context Protocol servers and LangChain pipelines, behind a drag-and-drop canvas.
+**Currently** at Cloud Primero: intent-to-action agent platforms, with natural-language intent executed
+over Model Context Protocol servers and LangChain pipelines.
 
-[**Portfolio**](https://abdurrahmanhassan.com) · [Experience](https://abdurrahmanhassan.com/work/) ·
-[Case studies](https://abdurrahmanhassan.com/story/) ·
-[Résumé (PDF)](https://abdurrahmanhassan.com/abdurrahman-hassan-resume.pdf) ·
-[LinkedIn](https://www.linkedin.com/in/abdurrahman-hassan/) ·
-[Email](mailto:abdurfreelance@gmail.com)
+> **Ask it yourself** — [the assistant on my site](https://abdurrahmanhassan.com) answers only from what's
+> published there. No sign-up, no invented claims.
 
 ## Selected work
 
-**[BoxBuy](https://abdurrahmanhassan.com/story/#boxbuy)** — multi-tenant hospitality and catering SaaS
-with four connected panels (Catering, Admin, Partner, StayPortal) on one core. Docker and CI/CD work cut
-infrastructure cost 35% and deployment errors 90%, and releases shipped five times faster; 10+
-applications at 99%+ uptime.
+| | |
+|---|---|
+| **[BoxBuy](https://abdurrahmanhassan.com/story/#boxbuy)** | Multi-tenant hospitality and catering SaaS — four connected panels (Catering, Admin, Partner, StayPortal) on one core. Docker and CI/CD work cut infrastructure cost **35%** and deployment errors **90%**, releases shipped **5×** faster, 10+ applications at **99%+ uptime**. |
+| **[Transcend](https://abdurrahmanhassan.com/story/#transcend)** | An agentic platform where natural-language intent becomes automated multi-step tool execution over **MCP** servers, with dynamic state orchestration and a drag-and-drop canvas. |
+| **[Aga Khan University revamp](https://abdurrahmanhassan.com/work/#aga-khan)** | Frontend architecture for three institutional platforms — university, hospital, examination board — on Next.js App Router and Storyblok. |
+| **[QRCartoon](https://www.qrcartoon.com/)** | Free QR platform: dynamic codes that stay editable after printing, scan analytics, 25+ tools. Svelte and Appwrite, plus a companion Cloudflare Worker for self-hosted redirects. |
 
-**[Transcend](https://abdurrahmanhassan.com/story/#transcend)** — an agentic platform where
-natural-language intent becomes automated multi-step tool execution over MCP servers, with dynamic state
-orchestration and a drag-and-drop canvas.
+<details>
+<summary><b>All 14 projects, by role</b></summary>
 
-**[Aga Khan University digital revamp](https://abdurrahmanhassan.com/work/#aga-khan)** — frontend
-architecture for three institutional platforms (university, hospital, examination board) on Next.js App
-Router and Storyblok.
+**Cloud Primero** — Transcend (agentic AI) · [Aga Khan University, Hospital and Examination Board](https://abdurrahmanhassan.com/work/#aga-khan) (enterprise portal)
 
-**[QRCartoon](https://www.qrcartoon.com/)** — free QR platform with dynamic codes that stay editable after
-printing, scan analytics, and 25+ tools. Svelte and Appwrite, plus a companion Cloudflare Worker for
-self-hosted redirects.
+**Fair Trade Sp. z o.o.** — [BoxBuy](https://abdurrahmanhassan.com/work/#boxbuy) (multi-tenant SaaS) · [CaterBox](https://abdurrahmanhassan.com/work/#caterbox) (corporate catering) · [StayPortal](https://abdurrahmanhassan.com/work/#stayportal) (property and guests)
 
-The other ten — e-commerce, AI CRM, legal research, mobile, marketplace — are on the
-[work page](https://abdurrahmanhassan.com/work/) with dates and measured results.
+**Teksyo** — [Fexlife](https://abdurrahmanhassan.com/work/#fexlife) (AI CRM for insurance) · [Elefant](https://abdurrahmanhassan.com/work/#elefant) (AI legal research, six jurisdictions)
 
-## Stack
+**Client projects** — [Print Canada](https://abdurrahmanhassan.com/work/#print-canada) (Drupal to Shopify migration) · [Furniture Finders](https://abdurrahmanhassan.com/work/#furniture-finders) (circular-economy marketplace)
 
-**Languages & frameworks**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+**Tajir Express** — [storefront](https://abdurrahmanhassan.com/work/#tajirxpress-commerce) (1,000+ monthly transactions, local payment gateways)
 
-**Data & infrastructure**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+**Al Quddus** — [storefront](https://abdurrahmanhassan.com/work/#al-quddus-storefront) (5,000+ legacy records migrated)
 
-**AI & product**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Storyblok](https://img.shields.io/badge/Storyblok-36454F?style=for-the-badge&logo=storyblok&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+**Noonari Brothers** — [mobile app](https://abdurrahmanhassan.com/work/#noonari-app) (Ionic, Firebase real-time state)
 
-## About this portfolio
+**Independent** — [QRCartoon](https://www.qrcartoon.com/) · [AdabGuard](https://abdurrahmanhassan.com/work/#adabguard) (Roman Urdu sentiment and toxicity, final-year project)
 
-It's a build I maintain too: Astro with self-hosted fonts, a strict Content-Security-Policy with no inline
-styles or scripts, 98+ on mobile Lighthouse, and an assistant that answers only from what's published
-here. It also exposes its own tools to browser agents over WebMCP.
+</details>
 
-[abdurrahmanhassan.com](https://abdurrahmanhassan.com) ·
-[LinkedIn](https://www.linkedin.com/in/abdurrahman-hassan/) ·
-[abdurfreelance@gmail.com](mailto:abdurfreelance@gmail.com)
+<details>
+<summary><b>Stack</b></summary>
+
+<img src="https://skillicons.dev/icons?i=ts,js,py,nextjs,react,svelte,nodejs,nestjs,graphql,postgres,supabase,mongodb,redis,docker,gcp,aws,githubactions,cloudflare,stripe" alt="TypeScript, JavaScript, Python, Next.js, React, Svelte, Node.js, NestJS, GraphQL, PostgreSQL, Supabase, MongoDB, Redis, Docker, Google Cloud, AWS, GitHub Actions, Cloudflare, Stripe">
+
+**AI and agents** — Model Context Protocol, intent-to-action pipelines, LangChain and LangGraph, tool
+calling, Hugging Face, Ollama, Whisper, ElevenLabs
+
+**Frontend** — Next.js App Router, React, SvelteKit, Vue, Storyblok, Tailwind, Material UI, Framer Motion
+
+**Backend and data** — Node.js, NestJS, Express, Fastify, REST and GraphQL, PostgreSQL, Supabase, MongoDB,
+Redis, MySQL
+
+**Cloud and delivery** — GCP, AWS, Docker, GitHub Actions, Cloudflare Workers, NGINX, Linux
+
+</details>
+
+<details>
+<summary><b>How this portfolio is built</b></summary>
+
+Astro, self-hosted fonts, and a strict Content-Security-Policy with no inline styles or scripts. 98+ on
+mobile Lighthouse, 0 layout shift, an accessibility statement I keep honest. It publishes an
+[llms.txt](https://abdurrahmanhassan.com/llms.txt) for language models, and exposes its own tools to
+browser agents over **WebMCP** — the same protocol as the MCP servers I build at work, only in the page.
+
+</details>
+
+## Activity
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdurrahman-Hassan&theme=default" alt="Contribution summary" width="800">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdurrahman-Hassan&theme=default" alt="Commit stats" height="150">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdurrahman-Hassan&theme=default" alt="Languages by repository" height="150">
+
+<img src="https://ghchart.rshah.org/00333A/Abdurrahman-Hassan" alt="Contribution graph" width="800">
+
+<img src="https://streak-stats.demolab.com?user=Abdurrahman-Hassan&hide_border=true&background=00000000&ring=00333A&fire=D4AF37&currStreakLabel=00333A" alt="Contribution streak" height="150">
